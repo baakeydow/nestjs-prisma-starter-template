@@ -1,6 +1,6 @@
 {
   "name": "dtk-api",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Nestjs x Prisma",
   "author": "",
   "private": true,
